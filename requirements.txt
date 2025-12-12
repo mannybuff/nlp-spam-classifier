@@ -1,0 +1,15 @@
+contractions
+python-levenshtein
+rapidfuzz
+nlpaug
+googletrans==4.0.0rc1
+autocorrect
+emoji
+num2words
+pandas
+numpy
+scikit-learn
+matplotlib
+wordcloud
+nltk
+tensorflow
